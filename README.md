@@ -1,1 +1,3 @@
 # Spam-Classification
+Spam email is junk email sent out in bulk with intent to trick potential victims into downloading malware or redirecting them to fake websites to steal their information. Every company and person deals with spam. Spam are malicious emails that target people by sending emails that appear to be from well-known source. This can be very dangerous as if people click on the links, they are risk of compromising their system or leaking their personal information. 
+To reduce spam being sent to employees and customers, there are email analysis tools and filters that inspect emails and flag them as spam or not spam. This project was worked on by my partner Zachery Grames and I. 
